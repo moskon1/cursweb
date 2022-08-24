@@ -1,3 +1,33 @@
+div {
+    background-color: #6FEDD6;
+
+}
+
 body {
-    background-color: blue;
+    margin: 0px;
+    margin-top: 0px;
+    margin-right: 0px;
+    margin-left: 0px;
+}
+
+h1 {
+    -webkit-margin-start: 0px;
+    -webkit-margin-end: 0px;
+    margin-block-start: 0em;
+    margin-block-end: 0em;
+}
+
+.pro {
+    text-decoration: underline;
+}
+.mid-container {
+    background-color: #FF9551;
+    height: 200px;
+    width: 200px;
+}
+
+.bot-container {
+    background-color: #FF4A4A;
+    height: 200px;
+    width: 200px;
 }
