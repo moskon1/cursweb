@@ -8,6 +8,8 @@ body {
     margin-top: 0px;
     margin-right: 0px;
     margin-left: 0px;
+    text-align: center;
+    font-family: 'Silkscreen', cursive;
 }
 
 h1 {
@@ -15,10 +17,23 @@ h1 {
     -webkit-margin-end: 0px;
     margin-block-start: 0em;
     margin-block-end: 0em;
+    margin: 0 auto 0 auto;
+    font-family: 'DynaPuff', cursive;
+}
+h2 {
+    font-family: 'DynaPuff', cursive;
+}
+h3 {
+    font-family: 'DynaPuff', cursive;
 }
 
 .pro {
     text-decoration: underline;
+}
+
+.top-container {
+    position: relative;
+    padding-top: 100px;
 }
 .mid-container {
     background-color: #FF9551;
@@ -30,4 +45,18 @@ h1 {
     background-color: #FF4A4A;
     height: 200px;
     width: 200px;
+}
+
+.bot-cloud {
+    position: absolute;
+    left: 300px;
+    top: 300px;
+
+}
+
+.top-cloud {
+    position: absolute;
+    right: 300px;
+    top: 50px;
+
 }

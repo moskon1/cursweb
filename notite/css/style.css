@@ -21,3 +21,43 @@
     bottom: 200px;
     left: 100px;
   }
+
+  .red2 {
+    background-color: red;
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    left: 100px;
+  }
+  .yellow2 {
+    background-color: yellow;
+    width: 100px;
+    height: 100px; 
+    position: absolute;
+    left: 0%;
+    top: 100px;
+    left: 200px;
+  }
+  .blue2 {
+    background-color: blue;
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    left: 300px;
+    top: 200px;
+  }
+  .c {
+    margin: 0%;
+    position: relative;
+    width: 500px;
+    height: 500px;
+  }
+  .containerlist {
+    text-align: center;
+    margin: auto;
+  }
+  
+  ul.myUL {
+    width: 50%;
+    margin: auto;
+  }
