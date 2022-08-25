@@ -1,5 +1,5 @@
 div {
-    background-color: #6FEDD6;
+    
 
 }
 
@@ -34,17 +34,14 @@ h3 {
 .top-container {
     position: relative;
     padding-top: 100px;
+    background-color: #6FEDD6;
 }
 .mid-container {
-    background-color: #FF9551;
-    height: 200px;
-    width: 200px;
+
 }
 
 .bot-container {
-    background-color: #FF4A4A;
-    height: 200px;
-    width: 200px;
+  
 }
 
 .bot-cloud {
@@ -60,3 +57,4 @@ h3 {
     top: 50px;
 
 }
+
