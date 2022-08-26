@@ -1,5 +1,6 @@
 #title {
    background-color: #ff4c68;
+   color: #fff;
 }
 
 h1 {
@@ -13,4 +14,32 @@ h1 {
     padding-top: 3% !important;
     padding-bottom: 3% !important;
     padding-right: 15% !important;
+}
+body {
+    font-family: "Montserrat";
+}
+
+.navbar {
+   padding-bottom: 4.5rem !important;
+}
+
+.navbar-brand {
+    font-family: "Ubuntu";
+    font-size: 4rem !important;
+    font-weight: bold;
+}
+
+.navbar-item {
+    padding: 0 18px !important;
+}
+
+.nav-link {
+    font-size: 1.5rem !important;
+    font-family: "Montserrat-Light";
+}
+
+/* Download Buttons */
+
+.dndbtn {
+    margin: 5% 3% 5% 0;
 }
