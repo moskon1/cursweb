@@ -4,13 +4,27 @@
 }
 
 #features {
-    margin: 150px 150px 150px 150px;
+    padding: 5% 15%;
     padding: auto;
+    background-color: #fff;
+    position: relative;
 }
+
+/* Title Image */
+
+.titleimg {
+    width: 23rem;
+    transform: rotate(25deg);
+    position: absolute;
+    right: 20% !important;
+    top: 17% !important;
+}
+
 h1 {
     font-family: "Montserrat";
     font-size: 3.5rem;
     line-height: 1.5;
+    margin-bottom: 50px;
 }
 
 h2 {
@@ -33,6 +47,7 @@ h2 {
     padding-top: 3% !important;
     padding-bottom: 3% !important;
     padding-right: 15% !important;
+    height: 700px;
 }
 body {
     font-family: "Montserrat";
@@ -61,14 +76,6 @@ body {
 
 .dndbtn {
     margin: 5% 3% 5% 0;
-}
-
-/* Title Image */
-
-.titleimg {
-    width: 60%;
-    transform: rotate(25deg);
-    padding-left: 100px !important;
 }
 
 i:hover {
