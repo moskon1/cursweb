@@ -13,6 +13,11 @@ h1 {
     line-height: 1.5;
 }
 
+h2 {
+    font-family: "Montserrat";
+    font-size: 3rem;
+    line-height: 1.5;
+}
 .p-features {
     color: #8f8f8f;
 }
@@ -63,6 +68,7 @@ body {
 .titleimg {
     width: 60%;
     transform: rotate(25deg);
+    padding-left: 100px !important;
 }
 
 i:hover {
@@ -72,5 +78,29 @@ i:hover {
 /* Testimonial Section */
 
 #testimonials {
+    text-align: center;
+    background-color: tomato;
+    color: #fff;
+}
+
+.test-img {
+    border-radius: 100%;
+    width: 10%;
+}
+
+#press {
+    background-color: tomato;
+    text-align: center;
+    padding-bottom: 3%;
+
+}
+
+.press-img {
+    width: 15%;
+    margin: 20px 20px 50px;
+}
+
+.carousel-item {
+    height: 500px;
     padding: 7% 15%;
 }
