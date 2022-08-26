@@ -104,3 +104,11 @@ i:hover {
     height: 500px;
     padding: 7% 15%;
 }
+
+.card-row {
+    padding: 2% 10%;
+}
+
+.pricing-header {
+    padding: 5% 5%;
+}
