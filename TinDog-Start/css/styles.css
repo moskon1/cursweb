@@ -43,3 +43,10 @@ body {
 .dndbtn {
     margin: 5% 3% 5% 0;
 }
+
+/* Title Image */
+
+.titleimg {
+    width: 60%;
+    transform: rotate(25deg);
+}
