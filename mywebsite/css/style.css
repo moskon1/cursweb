@@ -3,7 +3,7 @@ img {
   }
 
 .responsive {
-    width: 20%;
+    width: 50%;
 }
 
 body {
@@ -59,6 +59,7 @@ h3 {
     position: absolute;
     left: 300px;
     top: 300px;
+    width: auto;
 
 }
 
@@ -66,7 +67,7 @@ h3 {
     position: absolute;
     right: 300px;
     top: 50px;
-
+    width: auto;
 }
 
 .program {
