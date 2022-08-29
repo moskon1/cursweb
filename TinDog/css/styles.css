@@ -22,12 +22,12 @@
 
 body {
     font-family: "Montserrat-Bold";
-    text-align: center;
 }
 
 h1, h2, h3, h4, h5, h6 {
     font-family: "Montserrat";
 }
+
 
 .p-features {
     color: #8f8f8f;
@@ -43,13 +43,11 @@ h1, h2, h3, h4, h5, h6 {
     padding-top: 3% !important;
     padding-bottom: 3% !important;
     padding-right: 15% !important;
-    height: 700px;
 }
 
 .big-heading {
     font-size: 3.5rem;
     line-height: 1.5;
-    margin-bottom: 50px;
 }
 
 .navbar {
@@ -84,6 +82,7 @@ i:hover {
 /* Testimonial Section */
 
 #testimonials {
+    text-align: center;
     background-color: tomato;
     color: #fff;
 }
@@ -127,6 +126,7 @@ i:hover {
     background-color: tomato;
     color: #fff;
     padding: 7% 15%;
+    text-align: center;
 }
 
 .cta-heading {
@@ -147,7 +147,7 @@ i:hover {
         position: static;
     }
     .container-fluid {
-        height: 1250px;
+        height: 1450px;
     }
 }
 
